@@ -25,7 +25,7 @@ Výsledky hlasování pro okres Benešov:
 
 Spuštění programu:
 
-> python main.py `"https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101"` "vysledky_benesov.csv"
+> python main.py `"https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101"` `"vysledky_benesov.csv"`
 
 Průběh stahování:
 
