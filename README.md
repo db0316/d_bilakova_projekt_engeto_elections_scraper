@@ -7,7 +7,7 @@ Tento projekt slouží k extrahování výsledků parlamentních voleb v roce 20
 ### Instalace knihoven ###
 Knihovny, které jsou použity v kódu jsou uložené v souboru `requirements.txt`. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
 
-> $ pip 3 --version	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # overim verzi manazeru  
+> $ pip 3 --version	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # overim verzi manazeru  
 > $ pip 3 install -r requirements.txt &nbsp;&nbsp;&nbsp;&nbsp; # nainstaluji knihovnu
 
 ### Spuštění projektu ###
@@ -25,7 +25,7 @@ Výsledky hlasování pro okres Benešov:
 
 Spuštění programu:
 
-> python main.py \"https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101"\ "vysledky_benesov.csv"
+> python main.py `"https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101"` "vysledky_benesov.csv"
 
 Průběh stahování:
 
