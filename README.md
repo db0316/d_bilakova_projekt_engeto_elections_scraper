@@ -5,7 +5,7 @@ Třetí projekt na kurzu od Engeto - Datový analytik s Pythonem.
 Tento projekt slouží k extrahování výsledků parlamentních voleb v roce 2017. Odkaz k prohlédnutí naleznete [zde](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
 
 ### Instalace knihoven ###
-Knihovny, které jsou použity v kódu jsou uložené v souboru `requirements.txt`. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
+Knihovny, které jsou použity v kódu, jsou uložené v souboru `requirements.txt`. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
 
 > $ pip 3 --version	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # overim verzi manazeru  
 > $ pip 3 install -r requirements.txt &nbsp;&nbsp;&nbsp;&nbsp; # nainstaluji knihovnu
